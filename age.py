@@ -14,4 +14,4 @@ elif driving == '没有':
 	if age >= 18:
 		print('那你可以去学车啊')
 	else:
-		print('再过几年就可以学车了')
+		print('再过几年就可以学车了呀')
